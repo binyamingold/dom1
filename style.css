@@ -1,0 +1,4 @@
+.custom-list li:nth-child(3) {
+    color: red;
+    font-size: 20px;
+}
